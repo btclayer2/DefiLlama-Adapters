@@ -225,7 +225,6 @@
     "MOVR": "0xffffffff98e37bf6a393504b5adc5b53b4d0ba11",
     "BNC": "0xffffffff3646a00f78cadf8883c5a2791bfcddc4",
     "KSM": "0xffffffffc6deec7fc8b11a2c8dde9a59f8c62efe"
-
   },
   "moonbeam": {
     "WGLMR": "0x5f6c5c2fb289db2228d159c69621215e354218d7",
@@ -1676,7 +1675,8 @@
     "WETH": "0x7526B5318Cbe690FBd3eC8DD7ad122f4F1b1d76F"
   },
   "bevm": {
-    "WBTC": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
+    "WBTC": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+    "stBTC": "0x26bda683F874e7AE3e3A5d3fad44Bcb82a7c107C"
   },
   "degen": {
     "WDEGEN": "0xeb54dacb4c2ccb64f8074eceea33b5ebb38e5387"
